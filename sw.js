@@ -1,5 +1,5 @@
 // Service Worker for caching static assets
-const CACHE_NAME = 'souka-stitches-v1';
+const CACHE_NAME = 'souka-stitch-v1';
 const STATIC_CACHE = 'static-v1';
 const DYNAMIC_CACHE = 'dynamic-v1';
 
