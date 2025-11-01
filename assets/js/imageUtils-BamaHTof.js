@@ -1,0 +1,1 @@
+import{I as s,S as r}from"./index-CfRD-3Fw.js";const o=(o,t="v1")=>o?`${s}/uploads/products/${r}/${o}_${t}.png`:null,t=s=>{if(!s)return[];const r=[];for(let t=1;t<=5;t++)r.push(o(s,`v${t}`));return r};export{o as a,t as g};
