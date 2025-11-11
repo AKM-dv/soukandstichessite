@@ -1,4 +1,4 @@
-import{r as e}from"./mui-BsZk_SdY.js";
+import{r as e}from"./mui-C2LQx1Gq.js";
 /**
  * react-router v7.8.1
  *
