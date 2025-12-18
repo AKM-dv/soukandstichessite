@@ -1,0 +1,1 @@
+import{j as o}from"./mui-CZF-0V7l.js";import{P as i}from"./PolicyPage-YsOv05RE.js";import"./vendor-HnKmhvXM.js";import"./index-CM2p59Wv.js";import"./utils-BLtjaFjY.js";import"./router-C8FM2-5r.js";const r=()=>o.jsx(i,{policyKey:"privacy_policy",title:"Privacy Policy",subtitle:"Learn how we collect, use, disclose, and safeguard your personal information."});export{r as default};
